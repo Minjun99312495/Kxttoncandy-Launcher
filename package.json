@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
-  "version": "2.2.1",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "name": "Kxttoncandy-Launcher",
+  "version": "1.0.0",
+  "productName": "Kxttoncandy Launcher",
+  "description": "Kxttoncandy Launcher",
+  "author": "minjun (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
